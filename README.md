@@ -12,7 +12,7 @@ Tision is a social media platform that enables entrepreneurs to connect, collabo
 
 - Account creation
 - Connection request
--Profile Creation and Update 
+- Profile Creation and Update 
 
 ## Technologies Used
 
