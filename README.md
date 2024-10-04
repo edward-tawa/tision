@@ -21,15 +21,10 @@ Tision uses a number of open source projects to work properly:
 - [React JS] - Front end enhanced for web apps!
 - [Python Django] - backend server for serving data
 - [Django Restframework] - Provides classbased views.
+- Json Web Token for Authentication 
 - [Google MUI] - great UI boilerplate for modern web apps
 - [node.js] - instaling packages for react js
 - [npm] - managing packages
-- [HTMl] - duh
-
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
-
-## Installation
 
 
 ```
